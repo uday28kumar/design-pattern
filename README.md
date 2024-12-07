@@ -1,1 +1,1 @@
-# design-pattern by uday kumar
+# Design Pattern
